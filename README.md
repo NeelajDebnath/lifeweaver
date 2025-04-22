@@ -1,7 +1,7 @@
 # LifeWeaver - AI Autobiography Generator
 
 <div align="center">
-  <img src="docs/screenshots/logo.png" alt="LifeWeaver Logo" width="200">
+  <img src="lifeweaver/frontend/docs/screenshots/logo.svg" alt="LifeWeaver Logo" width="200">
   <br>
   <p>
     <strong>Transform your life milestones into beautiful stories with AI</strong>
@@ -43,14 +43,14 @@ The application features a modern, responsive interface with elegant animations 
 ## Screenshots
 
 <div align="center">
-  <img src="docs/screenshots/main-light.png" alt="LifeWeaver Light Mode" width="400">
-  <img src="docs/screenshots/main-dark.png" alt="LifeWeaver Dark Mode" width="400">
+  <img src="lifeweaver/frontend/docs/screenshots/main-light.png" alt="LifeWeaver Light Mode" width="400">
+  <img src="lifeweaver/frontend/docs/screenshots/main-dark.png" alt="LifeWeaver Dark Mode" width="400">
   <p><em>Light and Dark mode interfaces</em></p>
   
-  <img src="docs/screenshots/timeline.png" alt="Timeline View" width="800">
+  <img src="lifeweaver/frontend/docs/screenshots/timeline.png" alt="Timeline View" width="800">
   <p><em>Interactive timeline view of life events</em></p>
   
-  <img src="docs/screenshots/story.png" alt="Generated Story" width="800">
+  <img src="lifeweaver/frontend/docs/screenshots/Screenshot 2025-04-22 084143.png" alt="Generated Story" width="800">
   <p><em>Generated autobiography with export options</em></p>
 </div>
 

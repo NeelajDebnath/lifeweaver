@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#4f46e5" />
+  
+  <!-- Inner Circle -->
+  <circle cx="100" cy="100" r="85" fill="#818cf8" />
+  
+  <!-- Weaving Pattern -->
+  <path d="M50 100 C 70 70, 130 70, 150 100" stroke="#ffffff" stroke-width="8" fill="none" />
+  <path d="M50 100 C 70 130, 130 130, 150 100" stroke="#ffffff" stroke-width="8" fill="none" />
+  
+  <!-- Text -->
+  <text x="100" y="100" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="#ffffff">LIFE</text>
+  <text x="100" y="125" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="#ffffff">WEAVER</text>
+</svg> 
