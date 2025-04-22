@@ -79,6 +79,12 @@ The application features a modern, responsive interface with elegant animations 
 - Python 3.9+
 - Google Gemini API key
 
+### Clone Repository
+```bash
+git clone https://github.com/NeelajDebnath/lifeweaver.git
+cd lifeweaver
+```
+
 ### One-Click Setup
 Use the provided setup scripts:
 
