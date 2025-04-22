@@ -50,7 +50,7 @@ The application features a modern, responsive interface with elegant animations 
   <img src="lifeweaver/frontend/docs/screenshots/timeline.png" alt="Timeline View" width="800">
   <p><em>Interactive timeline view of life events</em></p>
   
-  <img src="lifeweaver/frontend/docs/screenshots/Screenshot 2025-04-22 084143.png" alt="Generated Story" width="800">
+  <img src="lifeweaver/frontend/docs/screenshots/story.png" alt="Generated Story" width="800">
   <p><em>Generated autobiography with export options</em></p>
 </div>
 
