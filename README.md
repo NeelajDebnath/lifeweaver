@@ -1,7 +1,7 @@
 # LifeWeaver - AI Autobiography Generator
 
 <div align="center">
-  <img src="lifeweaver/frontend/docs/screenshots/Logo_Final.svg" alt="LifeWeaver Logo" width="200">
+  <img src="lifeweaver/frontend/docs/screenshots/Logo_Final.svg" alt="LifeWeaver Logo" width="600">
   <br>
   <p>
     <strong>Transform your life milestones into beautiful stories with AI</strong>
